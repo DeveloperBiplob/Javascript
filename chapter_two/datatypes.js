@@ -49,4 +49,13 @@ var str6 = String(3.654)
 console.log(str4, str5, str6)
 
 
+// *********** BOOLEANS ***************
+
+var b1 = true
+var b2 = false
+
+var b3 = Boolean(true)
+var b4 = Boolean(false)
+
+console.log(b3, b4)
 
