@@ -59,3 +59,10 @@ var b4 = Boolean(false)
 
 console.log(b3, b4)
 
+// *********** Null vs Undefined ***************
+
+var abc // Undefined 
+var xyz = null
+
+console.log(null)
+console.log(abc)
