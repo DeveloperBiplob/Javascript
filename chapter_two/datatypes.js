@@ -66,3 +66,14 @@ var xyz = null
 
 console.log(null)
 console.log(abc)
+
+// Hexadecimal Number = Its a Base 16 Number System
+// Octal Number = Its a Base 8 Number system
+
+// Hexadechimal er somoy samne '0x' diye baki ta likhbo.
+var hax = 0xff
+console.log(hax)
+
+// Octal er somoy samne 0 diye baki ta likhbo.
+var oct = 0756
+console.log(oct)
