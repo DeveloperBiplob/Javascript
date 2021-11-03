@@ -30,10 +30,23 @@ console.log(1/0)
 
 // NAN Data types
 console.log('abc' * 10)
+console.log(Number.MAX_VALUE)
+console.log(Number.MIN_VALUE)
+console.log(Number.MIN_SAFE_INTEGER)
 
 
 
+// *********** STRING ***************
 
+var str = 'String'
+var str2 = "String"
+var str3 = `String`
+
+var str4 = String('Biplob')
+var str5 = String(156)
+var str6 = String(3.654)
+
+console.log(str4, str5, str6)
 
 
 
